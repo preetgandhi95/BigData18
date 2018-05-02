@@ -1,3 +1,4 @@
+import os
 import sys
 from pyspark.sql import Row
 from pyspark.sql import SparkSession
@@ -20,4 +21,4 @@ for i in range(column_count):
 	output.append({'column_name':column_name, 'uniqueness':unique_values_count/total_rows_count})
 
 output_df = pd.DataFrame.from_dict(output)
-output_df.to_csv({0}_output.csv)
+output_df.to_csv('{0}_output.csv'.format(file_name))
