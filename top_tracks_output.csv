@@ -1,0 +1,17 @@
+dataset,key,u_index
+top_tracks,id,1.0
+top_tracks,name,1.0
+top_tracks,artists,0.78
+top_tracks,danceability,0.93
+top_tracks,energy,0.98
+top_tracks,key,0.12
+top_tracks,loudness,0.99
+top_tracks,mode,0.02
+top_tracks,speechiness,0.88
+top_tracks,acousticness,0.94
+top_tracks,instrumentalness,0.41
+top_tracks,liveness,0.83
+top_tracks,valence,0.97
+top_tracks,tempo,0.99
+top_tracks,duration_ms,0.99
+top_tracks,time_signature,0.02
