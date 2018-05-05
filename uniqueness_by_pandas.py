@@ -15,4 +15,5 @@ for i in input_list :
         u.append({'key':x, 'u_index': float("{0:.2f}".format(len(df[x].unique())/len(df[x]))), 'dataset': file_name})
 
     uniqueness = pd.DataFrame.from_dict(u)
+    uniqueness = uniqueness.sort_values('u_index', ascending = False)
     uniqueness.to_csv('{0}_output.csv'.format(file_name),index = False)
