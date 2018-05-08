@@ -16,7 +16,7 @@ lines = sc.textFile(sys.argv[1], 1).mapPartitions(lambda x: reader(x))
 total_rows =lines.map(lambda line:('line',1)).reduceByKey(lambda x,y: x+y)
 total_rows_count = total_rows.take(1)[0][1]
 column_list = np.array(sys.argv[2])
-for i in range(column_list):
+for i in column_list:
     column_name = lines.take(1)[0][i]
     sum = lines.map(lambda line:(column_name, line[i])).reduceByKey(lambda x,y: x+y)
     mean = sum.take(1)[0][1]/total_rows_count
