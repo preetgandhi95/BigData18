@@ -18,7 +18,10 @@ for i in range(column_count):
 	column_name = lines.take(1)[0][i]
 	unique_values = lines.map(lambda line:(line[i],1)).reduceByKey(lambda x,y: x+y).map(lambda x: ('unique',1)).reduceByKey(lambda x,y: x+y)
 	unique_values_count = unique_values.take(1)[0][1]
-	output.append({'column_name':column_name, 'uniqueness':unique_values_count/total_rows_count})
+	output.append({'column_name':column_name, 'u_index':unique_values_count/total_rows_count})
 
 output_df = pd.DataFrame.from_dict(output)
+sub_df = pd.read_csv(sys.argv[1], nrows = 20)
+output_df['datatype'] = sub_df.dtypes.values
+output_df.sort_values('u_inex', ascending = False, inplace = True)
 output_df.to_csv('{0}_output.csv'.format(file_name), index = False)
