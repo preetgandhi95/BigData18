@@ -1,0 +1,8 @@
+dataset,datatype,key,u_index
+subway_line,int64,OBJECTID,1.0
+subway_line,object,the_geom,0.92
+subway_line,float64,SHAPE_LEN,0.91
+subway_line,int64,ID,0.7
+subway_line,object,NAME,0.05
+subway_line,object,RT_SYMBOL,0.01
+subway_line,object,URL,0.0

@@ -1,0 +1,7 @@
+dataset,datatype,key,u_index
+subway_station,int64,OBJECTID,1.0
+subway_station,object,the_geom,1.0
+subway_station,object,NAME,0.75
+subway_station,object,NOTES,0.22
+subway_station,object,LINE,0.14
+subway_station,object,URL,0.0

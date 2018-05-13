@@ -1,0 +1,6 @@
+dataset,datatype,key,u_index
+subway_entrance,int64,OBJECTID,1.0
+subway_entrance,object,the_geom,0.99
+subway_entrance,object,NAME,0.83
+subway_entrance,object,LINE,0.05
+subway_entrance,object,URL,0.0
