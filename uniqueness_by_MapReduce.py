@@ -23,5 +23,5 @@ for i in range(column_count):
 output_df = pd.DataFrame.from_dict(output)
 sub_df = pd.read_csv(sys.argv[1], nrows = 20)
 output_df['datatype'] = sub_df.dtypes.values
-output_df.sort_values('u_inex', ascending = False, inplace = True)
+output_df.sort_values('u_index', ascending = False, inplace = True)
 output_df.to_csv('{0}_output.csv'.format(file_name), index = False)
