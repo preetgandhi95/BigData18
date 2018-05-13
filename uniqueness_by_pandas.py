@@ -12,7 +12,7 @@ for i in input_list :
 
     u = []
     for x in df:
-        u.append({'key':x, 'u_index': float("{0:.2f}".format(len(df[x].unique())/len(df[x]))), 'dataset': file_name})
+        u.append({'key':x, 'u_index': float("{0:.2f}".format(len(df[x].unique())/len(df[x]))), 'datatype': df[x].dtype, 'dataset': file_name})
 
     uniqueness = pd.DataFrame.from_dict(u)
     uniqueness = uniqueness.sort_values('u_index', ascending = False)
