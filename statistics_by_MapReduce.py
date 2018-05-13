@@ -17,7 +17,8 @@ output = []
 lines = sc.textFile(sys.argv[1], 1).mapPartitions(lambda x: reader(x))
 total_rows =lines.map(lambda line:('line',1)).reduceByKey(lambda x,y: x+y)
 total_rows_count = total_rows.take(1)[0][1]
-
+total_cols_count = len(lines.take(1)[0])
+lines = lines.filter(lambda line: len(line) == total_cols_count)
 for i in column_list:
     column_name = lines.take(1)[0][i]
     sum = lines.map(lambda line:(column_name, line[i])).reduceByKey(lambda x,y: x+y)
