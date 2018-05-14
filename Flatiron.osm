@@ -1,0 +1,907 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.4" timestamp="2018-03-26T01:59:59Z">
+	<bounds minlat="40.741" minlon="-73.9889999" maxlat="40.743" maxlon="-73.9869999"/>
+	<node id="42436575" lat="40.7415369" lon="-73.9875133" version="1">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="247798192" lat="40.7427064" lon="-73.9877848" version="1"/>
+	<node id="247798193" lat="40.7426329" lon="-73.987892" version="1"/>
+	<node id="247798194" lat="40.74255" lon="-73.9878786" version="1"/>
+	<node id="247798195" lat="40.7425038" lon="-73.9877143" version="1"/>
+	<node id="247798196" lat="40.7425289" lon="-73.9876611" version="1"/>
+	<node id="247798211" lat="40.7418081" lon="-73.9883361" version="1"/>
+	<node id="247798212" lat="40.7417501" lon="-73.9882186" version="1"/>
+	<node id="247798213" lat="40.7416568" lon="-73.9882254" version="1"/>
+	<node id="247798214" lat="40.7416089" lon="-73.9883285" version="1"/>
+	<node id="247798215" lat="40.7416437" lon="-73.9884385" version="1"/>
+	<node id="247798216" lat="40.7417615" lon="-73.9884497" version="1"/>
+	<node id="247798306" lat="40.7413833" lon="-73.9885678" version="1"/>
+	<node id="247798307" lat="40.7413146" lon="-73.9883572" version="1"/>
+	<node id="247798308" lat="40.7413218" lon="-73.988148" version="1"/>
+	<node id="247798309" lat="40.7414925" lon="-73.9879187" version="1"/>
+	<node id="247798310" lat="40.7416489" lon="-73.987806" version="1"/>
+	<node id="247798311" lat="40.7418757" lon="-73.987693" version="1"/>
+	<node id="247798312" lat="40.7420179" lon="-73.9876957" version="1"/>
+	<node id="247798313" lat="40.7420681" lon="-73.9876652" version="1"/>
+	<node id="247798314" lat="40.742191" lon="-73.9874156" version="1"/>
+	<node id="247798546" lat="40.7424105" lon="-73.9882499" version="1"/>
+	<node id="247798582" lat="40.7418176" lon="-73.9880528" version="1"/>
+	<node id="247798583" lat="40.7418959" lon="-73.9878878" version="1"/>
+	<node id="247798586" lat="40.7420666" lon="-73.9884109" version="1"/>
+	<node id="247798587" lat="40.7419101" lon="-73.9883921" version="1"/>
+	<node id="247798614" lat="40.7426584" lon="-73.9879469" version="1"/>
+	<node id="274677611" lat="40.7416194" lon="-73.9882787" version="1"/>
+	<node id="274677613" lat="40.7410963" lon="-73.988035" version="1"/>
+	<node id="274681098" lat="40.741599" lon="-73.9886251" version="1"/>
+	<node id="274681228" lat="40.7417156" lon="-73.9884695" version="1"/>
+	<node id="420599807" lat="40.7425923" lon="-73.987772" version="1">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="420599808" lat="40.7417131" lon="-73.9883427" version="1">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="1251496224" lat="40.7417166" lon="-73.988207" version="1"/>
+	<node id="1251496232" lat="40.7425966" lon="-73.9878974" version="1"/>
+	<node id="1251496236" lat="40.7417872" lon="-73.988419" version="1"/>
+	<node id="1251496238" lat="40.7425222" lon="-73.9878474" version="1"/>
+	<node id="1251496260" lat="40.7426935" lon="-73.9878298" version="1"/>
+	<node id="1251496262" lat="40.7416736" lon="-73.9884616" version="1"/>
+	<node id="1251496264" lat="40.7418033" lon="-73.9883785" version="1"/>
+	<node id="1251496284" lat="40.7416821" lon="-73.9882112" version="1"/>
+	<node id="1251496287" lat="40.7417838" lon="-73.988252" version="1"/>
+	<node id="1251496289" lat="40.7416307" lon="-73.9882555" version="1"/>
+	<node id="1251496304" lat="40.7418016" lon="-73.9882912" version="1"/>
+	<node id="1251496306" lat="40.7416274" lon="-73.9884152" version="1"/>
+	<node id="1251496308" lat="40.7425042" lon="-73.9878055" version="1"/>
+	<node id="1251496310" lat="40.7427034" lon="-73.9877176" version="1"/>
+	<node id="1251496316" lat="40.7425587" lon="-73.9876334" version="1"/>
+	<node id="1251496330" lat="40.7424981" lon="-73.9877581" version="1"/>
+	<node id="1251496342" lat="40.7425939" lon="-73.9876209" version="1"/>
+	<node id="1251496358" lat="40.7416124" lon="-73.988374" version="1"/>
+	<node id="1251496362" lat="40.7426697" lon="-73.9878663" version="1"/>
+	<node id="1251646001" lat="40.741244" lon="-73.9881992" version="1">
+		<tag k="name" v="Roscoe Conkling"/>
+		<tag k="website" v="http://www.nycgovparks.org/parks/madisonsquarepark/monuments/319"/>
+		<tag k="historic" v="memorial"/>
+		<tag k="wikidata" v="Q27919861"/>
+		<tag k="wikipedia" v="en:Roscoe Conkling (sculpture)"/>
+	</node>
+	<node id="1272605140" lat="40.7415064" lon="-73.9881353" version="1">
+		<tag k="name" v="Shake Shack"/>
+		<tag k="phone" v="(212)889-6600"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="burger"/>
+		<tag k="website" v="http://www.shakeshack.com/"/>
+		<tag k="wikidata" v="Q1058722"/>
+		<tag k="wikipedia" v="en:Shake Shack"/>
+		<tag k="wheelchair" v="yes"/>
+		<tag k="addr:street" v="Madison Avenue"/>
+		<tag k="addr:postcode" v="10010"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="addr:housenumber" v="11"/>
+	</node>
+	<node id="2396625692" lat="40.7417523" lon="-73.9884893" version="1">
+		<tag k="source" v="wetap.org"/>
+		<tag k="amenity" v="drinking_water"/>
+		<tag k="wetap:credit" v="nini1988"/>
+		<tag k="wetap:status" v="unknown"/>
+	</node>
+	<node id="2396631631" lat="40.7425158" lon="-73.9876266" version="1">
+		<tag k="amenity" v="drinking_water"/>
+		<tag k="stateofrepair" v="ok"/>
+	</node>
+	<node id="2704161399" lat="40.741044" lon="-73.9888709" version="1">
+		<tag k="addr:street" v="East 23rd Street"/>
+		<tag k="addr:postcode" v="10010"/>
+		<tag k="addr:housenumber" v="2"/>
+	</node>
+	<node id="2706908842" lat="40.7414568" lon="-73.9882168" version="1"/>
+	<node id="2706908843" lat="40.7414804" lon="-73.9881001" version="1"/>
+	<node id="2706908844" lat="40.7415417" lon="-73.9882464" version="1"/>
+	<node id="2706908845" lat="40.7415653" lon="-73.9881297" version="1"/>
+	<node id="2898892341" lat="40.7410281" lon="-73.9889606" version="1"/>
+	<node id="3009534444" lat="40.7410018" lon="-73.9880096" version="1"/>
+	<node id="3019021230" lat="40.7425406" lon="-73.9880059" version="1"/>
+	<node id="3019021231" lat="40.7425568" lon="-73.9879495" version="1"/>
+	<node id="3019033999" lat="40.7414078" lon="-73.9881602" version="1"/>
+	<node id="3019034000" lat="40.7414403" lon="-73.9881723" version="1"/>
+	<node id="3019034001" lat="40.7415988" lon="-73.98823" version="1"/>
+	<node id="3019034002" lat="40.7415744" lon="-73.9882179" version="1"/>
+	<node id="3019038935" lat="40.7425017" lon="-73.9875787" version="1"/>
+	<node id="3019038936" lat="40.7424446" lon="-73.9877014" version="1"/>
+	<node id="3019038937" lat="40.7422423" lon="-73.9876518" version="1"/>
+	<node id="3019038939" lat="40.7427341" lon="-73.9878369" version="1"/>
+	<node id="3019038941" lat="40.7423318" lon="-73.9876639" version="1"/>
+	<node id="3019038953" lat="40.7416601" lon="-73.9878597" version="1"/>
+	<node id="3019038954" lat="40.7416886" lon="-73.9881266" version="1"/>
+	<node id="3019038955" lat="40.7414102" lon="-73.988022" version="1"/>
+	<node id="3019038957" lat="40.7416957" lon="-73.9882095" version="1"/>
+	<node id="3019038958" lat="40.7425685" lon="-73.987886" version="1"/>
+	<node id="3019038959" lat="40.7426427" lon="-73.9878852" version="1"/>
+	<node id="3019038960" lat="40.7426968" lon="-73.9878183" version="1"/>
+	<node id="3019038962" lat="40.7425434" lon="-73.9876476" version="1"/>
+	<node id="3019038963" lat="40.7425026" lon="-73.9877241" version="1"/>
+	<node id="3019038964" lat="40.7413421" lon="-73.9884699" version="1"/>
+	<node id="3019038971" lat="40.7419803" lon="-73.987677" version="1"/>
+	<node id="3019038972" lat="40.7412142" lon="-73.9880753" version="1"/>
+	<node id="3019038974" lat="40.7410851" lon="-73.9880967" version="1"/>
+	<node id="3019038978" lat="40.7414868" lon="-73.9887114" version="1"/>
+	<node id="3019038979" lat="40.7415069" lon="-73.9887394" version="1"/>
+	<node id="3019038996" lat="40.7416665" lon="-73.9884561" version="1"/>
+	<node id="3019038997" lat="40.7414661" lon="-73.9881709" version="1"/>
+	<node id="3019038998" lat="40.7413466" lon="-73.9881126" version="1"/>
+	<node id="3019038999" lat="40.7415519" lon="-73.9881961" version="1"/>
+	<node id="3019039000" lat="40.7417725" lon="-73.9884366" version="1"/>
+	<node id="3019039001" lat="40.7418287" lon="-73.9885339" version="1"/>
+	<node id="3102694107" lat="40.7415464" lon="-73.988714" version="1">
+		<tag k="sport" v="table_tennis"/>
+		<tag k="leisure" v="pitch"/>
+	</node>
+	<node id="4276517101" lat="40.7410626" lon="-73.9880287" version="1"/>
+	<node id="4276517110" lat="40.7415865" lon="-73.9876336" version="1"/>
+	<node id="4276517118" lat="40.7410247" lon="-73.9880572" version="1"/>
+	<node id="4276517125" lat="40.7410374" lon="-73.9880477" version="1"/>
+	<node id="4332760495" lat="40.7422047" lon="-73.9883026" version="1">
+		<tag k="natural" v="tree"/>
+	</node>
+	<node id="4332760496" lat="40.7424303" lon="-73.9878332" version="1">
+		<tag k="natural" v="tree"/>
+	</node>
+	<node id="4332760497" lat="40.7424973" lon="-73.9876843" version="1"/>
+	<node id="4332760498" lat="40.742479" lon="-73.9876964" version="1"/>
+	<node id="4332760499" lat="40.7424455" lon="-73.9877232" version="1"/>
+	<node id="4332760500" lat="40.7424099" lon="-73.9877246" version="1"/>
+	<node id="4332760501" lat="40.7423805" lon="-73.987742" version="1"/>
+	<node id="4332760502" lat="40.7423673" lon="-73.9877782" version="1"/>
+	<node id="4332760503" lat="40.7423632" lon="-73.9878265" version="1"/>
+	<node id="4332760504" lat="40.7423622" lon="-73.9878855" version="1"/>
+	<node id="4332760505" lat="40.7423266" lon="-73.9879365" version="1"/>
+	<node id="4332760506" lat="40.7423124" lon="-73.9879888" version="1"/>
+	<node id="4332760507" lat="40.7422768" lon="-73.988029" version="1"/>
+	<node id="4332760508" lat="40.7422321" lon="-73.9880558" version="1"/>
+	<node id="4332760509" lat="40.7421844" lon="-73.9880599" version="1"/>
+	<node id="4332760510" lat="40.7421529" lon="-73.9880599" version="1"/>
+	<node id="4332760511" lat="40.7421204" lon="-73.988088" version="1"/>
+	<node id="4332760512" lat="40.7420807" lon="-73.988088" version="1"/>
+	<node id="4332760513" lat="40.7420665" lon="-73.9880666" version="1"/>
+	<node id="4332760514" lat="40.7420604" lon="-73.9880223" version="1"/>
+	<node id="4332760515" lat="40.7420736" lon="-73.9879968" version="1"/>
+	<node id="4332760516" lat="40.7421112" lon="-73.9879848" version="1"/>
+	<node id="4332760517" lat="40.7421244" lon="-73.9879432" version="1"/>
+	<node id="4332760518" lat="40.742096" lon="-73.9879365" version="1"/>
+	<node id="4332760519" lat="40.7420685" lon="-73.9879244" version="1"/>
+	<node id="4332760520" lat="40.7420401" lon="-73.9879378" version="1"/>
+	<node id="4332760521" lat="40.7420045" lon="-73.9879633" version="1"/>
+	<node id="4332760522" lat="40.741971" lon="-73.9879499" version="1"/>
+	<node id="4332760523" lat="40.7419507" lon="-73.9879566" version="1"/>
+	<node id="4332760524" lat="40.7419476" lon="-73.9879888" version="1"/>
+	<node id="4332760525" lat="40.7419364" lon="-73.9880303" version="1"/>
+	<node id="4332760526" lat="40.7419507" lon="-73.9880652" version="1"/>
+	<node id="4332760527" lat="40.7419761" lon="-73.9880639" version="1"/>
+	<node id="4332760528" lat="40.7419883" lon="-73.988084" version="1"/>
+	<node id="4332760529" lat="40.7419822" lon="-73.9881242" version="1"/>
+	<node id="4332760530" lat="40.7420035" lon="-73.9881873" version="1"/>
+	<node id="4332760531" lat="40.7420076" lon="-73.9882758" version="1"/>
+	<node id="4332760532" lat="40.7420157" lon="-73.9883482" version="1"/>
+	<node id="4332760533" lat="40.7420309" lon="-73.9883911" version="1"/>
+	<node id="4332760534" lat="40.7420706" lon="-73.9883924" version="1"/>
+	<node id="4332760535" lat="40.7421234" lon="-73.9883683" version="1"/>
+	<node id="4332760536" lat="40.742158" lon="-73.9883978" version="1"/>
+	<node id="4332760546" lat="40.7415828" lon="-73.9886794" version="1"/>
+	<node id="4332760547" lat="40.7415904" lon="-73.9886358" version="1"/>
+	<node id="4332760548" lat="40.7416346" lon="-73.988536" version="1"/>
+	<node id="4332760549" lat="40.7416641" lon="-73.9885292" version="1"/>
+	<node id="4332760550" lat="40.7416641" lon="-73.9885561" version="1"/>
+	<node id="4332760551" lat="40.7416499" lon="-73.9885882" version="1"/>
+	<node id="4332760552" lat="40.7416682" lon="-73.9886258" version="1"/>
+	<node id="4332760553" lat="40.7416956" lon="-73.9886406" version="1"/>
+	<node id="4332760563" lat="40.7417932" lon="-73.9885748" version="1"/>
+	<node id="4332760564" lat="40.7417647" lon="-73.9885574" version="1"/>
+	<node id="4332760565" lat="40.7417566" lon="-73.9885266" version="1"/>
+	<node id="4332760566" lat="40.7417607" lon="-73.9884675" version="1"/>
+	<node id="4332760567" lat="40.7417851" lon="-73.9884367" version="1"/>
+	<node id="4332760568" lat="40.7418074" lon="-73.9883965" version="1"/>
+	<node id="4332760569" lat="40.7418379" lon="-73.9883938" version="1"/>
+	<node id="4332760570" lat="40.7418735" lon="-73.9883924" version="1"/>
+	<node id="4332760571" lat="40.7418917" lon="-73.9884018" version="1"/>
+	<node id="4332760572" lat="40.7418968" lon="-73.988371" version="1"/>
+	<node id="4332760573" lat="40.7418755" lon="-73.9883522" version="1"/>
+	<node id="4332760574" lat="40.7418582" lon="-73.9883093" version="1"/>
+	<node id="4332760575" lat="40.7418562" lon="-73.9882677" version="1"/>
+	<node id="4332760576" lat="40.7418125" lon="-73.9882221" version="1"/>
+	<node id="4332760577" lat="40.741784" lon="-73.9882007" version="1"/>
+	<node id="4332760578" lat="40.7417464" lon="-73.9881926" version="1"/>
+	<node id="4332760579" lat="40.7417109" lon="-73.9881859" version="1"/>
+	<node id="4332760580" lat="40.741658" lon="-73.988202" version="1"/>
+	<node id="4332760581" lat="40.7416226" lon="-73.9882281" version="1"/>
+	<node id="4332760582" lat="40.7415564" lon="-73.9881001" version="1"/>
+	<node id="4332760583" lat="40.7414924" lon="-73.9880625" version="1"/>
+	<node id="4332760584" lat="40.7414579" lon="-73.9880102" version="1"/>
+	<node id="4332760585" lat="40.7414121" lon="-73.987919" version="1"/>
+	<node id="4332760586" lat="40.741406" lon="-73.9877997" version="1"/>
+	<node id="4332760587" lat="40.741464" lon="-73.987746" version="1"/>
+	<node id="4332760588" lat="40.7415635" lon="-73.987679" version="1"/>
+	<node id="4332760689" lat="40.7416159" lon="-73.9877149" version="1"/>
+	<node id="4332760690" lat="40.7416194" lon="-73.9876455" version="1"/>
+	<node id="4332760691" lat="40.7416367" lon="-73.9876213" version="1"/>
+	<node id="4332760692" lat="40.7416784" lon="-73.9876066" version="1"/>
+	<node id="4332760693" lat="40.7417221" lon="-73.9876159" version="1"/>
+	<node id="4332760694" lat="40.741848" lon="-73.9874617" version="1"/>
+	<node id="4332760695" lat="40.7419367" lon="-73.9873694" version="1"/>
+	<node id="4332760729" lat="40.7428052" lon="-73.9880947" version="1"/>
+	<node id="4332760730" lat="40.742792" lon="-73.9880464" version="1"/>
+	<node id="4332760731" lat="40.7427483" lon="-73.9880411" version="1"/>
+	<node id="4332760732" lat="40.7427056" lon="-73.9880625" version="1"/>
+	<node id="4332760733" lat="40.7426874" lon="-73.9880967" version="1"/>
+	<node id="4332760734" lat="40.7426487" lon="-73.9881604" version="1"/>
+	<node id="4332760735" lat="40.7426101" lon="-73.9881806" version="1"/>
+	<node id="4332760736" lat="40.7425827" lon="-73.9881417" version="1"/>
+	<node id="4332760737" lat="40.7425553" lon="-73.9880773" version="1"/>
+	<node id="4332760738" lat="40.7425351" lon="-73.9880162" version="1"/>
+	<node id="4332760739" lat="40.7425637" lon="-73.9879121" version="1"/>
+	<node id="4332760740" lat="40.7427138" lon="-73.9877997" version="1"/>
+	<node id="4332760741" lat="40.7427199" lon="-73.9877568" version="1"/>
+	<node id="4332760742" lat="40.74273" lon="-73.987738" version="1"/>
+	<node id="4332760751" lat="40.7425695" lon="-73.987609" version="1"/>
+	<node id="4332760752" lat="40.7425232" lon="-73.9876467" version="1"/>
+	<node id="4332760759" lat="40.7425568" lon="-73.9882194" version="1"/>
+	<node id="4332760760" lat="40.7425395" lon="-73.9881752" version="1"/>
+	<node id="4332760761" lat="40.7425365" lon="-73.9881336" version="1"/>
+	<node id="4332760762" lat="40.7425243" lon="-73.9880934" version="1"/>
+	<node id="4332760763" lat="40.7424887" lon="-73.9880786" version="1"/>
+	<node id="4332760764" lat="40.7424531" lon="-73.9880827" version="1"/>
+	<node id="4332760765" lat="40.7424267" lon="-73.9881202" version="1"/>
+	<node id="4332760766" lat="40.7424176" lon="-73.9881886" version="1"/>
+	<node id="4332760767" lat="40.7424013" lon="-73.988206" version="1"/>
+	<node id="4332760768" lat="40.7423475" lon="-73.9882087" version="1"/>
+	<node id="4332760769" lat="40.7423048" lon="-73.9882168" version="1"/>
+	<node id="4332760770" lat="40.7422824" lon="-73.9882449" version="1"/>
+	<node id="4332760771" lat="40.7422763" lon="-73.9882919" version="1"/>
+	<node id="4763900906" lat="40.7410392" lon="-73.9883578" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="402149"/>
+		<tag k="name" v="East 23rd Street/Madison Avenue"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="X17"/>
+		<tag k="public_transport" v="stop_position"/>
+	</node>
+	<node id="4763900908" lat="40.7411028" lon="-73.9885105" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="404942"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="BxM6;BxM7;BxM8;BxM9;BxM10"/>
+		<tag k="public_transport" v="stop_position"/>
+	</node>
+	<node id="4763900909" lat="40.7410072" lon="-73.9885932" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="404942"/>
+		<tag k="name" v="East 23rd Street &#38; Broadway"/>
+		<tag k="bench" v="no"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="shelter" v="no"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="BxM6;BxM7;BxM8;BxM9;BxM10"/>
+		<tag k="public_transport" v="platform"/>
+	</node>
+	<node id="4763900910" lat="40.7411487" lon="-73.9886207" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="402130"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="M23;X1;X7;X9;X12;X14;X17;X27;X28;X37;X38;X63;X64;X68"/>
+		<tag k="public_transport" v="stop_position"/>
+	</node>
+	<node id="4763900911" lat="40.7410558" lon="-73.9887099" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="402130"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="M23;X1;X7;X9;X12;X14;X17;X27;X28;X37;X38;X63;X64;X68"/>
+		<tag k="public_transport" v="platform"/>
+	</node>
+	<node id="4763900912" lat="40.7413113" lon="-73.9887033" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="405231"/>
+		<tag k="name" v="East 23rd Street &#38; Broadway"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="M23"/>
+		<tag k="public_transport" v="platform"/>
+	</node>
+	<node id="4763900913" lat="40.7410671" lon="-73.988737" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="905033"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="X42"/>
+		<tag k="public_transport" v="platform"/>
+	</node>
+	<node id="4763900914" lat="40.7411594" lon="-73.9886462" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="905033"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="X42"/>
+		<tag k="public_transport" v="stop_position"/>
+	</node>
+	<node id="4763900915" lat="40.7412181" lon="-73.9887874" version="1">
+		<tag k="bus" v="yes"/>
+		<tag k="ref" v="405231"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="New York City Transit Authority"/>
+		<tag k="route_ref" v="M23"/>
+		<tag k="public_transport" v="stop_position"/>
+	</node>
+	<way id="5670466" version="1">
+		<nd ref="42436575"/>
+		<tag k="name" v="East 24th Street"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="highway" v="unclassified"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="New York, NY"/>
+		<tag k="tiger:zip_left" v="10010"/>
+		<tag k="tiger:name_base" v="24th"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="10010"/>
+		<tag k="tiger:name_direction_prefix" v="E"/>
+	</way>
+	<way id="5671393" version="1">
+		<nd ref="42436575"/>
+		<tag k="hgv" v="destination"/>
+		<tag k="name" v="Madison Avenue"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="sidewalk" v="right"/>
+		<tag k="wikidata" v="Q109849"/>
+		<tag k="wikipedia" v="en:Madison Avenue"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="New York, NY"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="10037"/>
+		<tag k="tiger:name_base" v="Madison"/>
+		<tag k="tiger:name_type" v="Ave"/>
+		<tag k="tiger:zip_right" v="10037"/>
+	</way>
+	<way id="22899286" version="1">
+		<nd ref="3009534444"/>
+		<nd ref="4276517118"/>
+		<nd ref="3009534444"/>
+		<tag k="name" v="Madison Square Park"/>
+		<tag k="phone" v="212.520.7600"/>
+		<tag k="leisure" v="park"/>
+		<tag k="name:en" v="Madison Square Park"/>
+		<tag k="name:ru" v="Мэдисон-сквер"/>
+		<tag k="name:zh" v="麦迪逊广场公园"/>
+		<tag k="wikidata" v="Q110000"/>
+		<tag k="wikipedia" v="en:Madison Square"/>
+	</way>
+	<way id="22986670" version="1">
+		<nd ref="1251496310"/>
+		<nd ref="247798192"/>
+		<nd ref="3019038960"/>
+		<nd ref="1251496260"/>
+		<nd ref="1251496362"/>
+		<nd ref="3019038959"/>
+		<nd ref="247798193"/>
+		<nd ref="1251496232"/>
+		<nd ref="3019038958"/>
+		<nd ref="247798194"/>
+		<nd ref="1251496238"/>
+		<nd ref="1251496308"/>
+		<nd ref="1251496330"/>
+		<nd ref="3019038963"/>
+		<nd ref="247798195"/>
+		<nd ref="247798196"/>
+		<nd ref="3019038962"/>
+		<nd ref="1251496316"/>
+		<nd ref="1251496342"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="22986671" version="1">
+		<nd ref="247798211"/>
+		<nd ref="1251496304"/>
+		<nd ref="1251496287"/>
+		<nd ref="247798212"/>
+		<nd ref="1251496224"/>
+		<nd ref="3019038957"/>
+		<nd ref="1251496284"/>
+		<nd ref="247798213"/>
+		<nd ref="1251496289"/>
+		<nd ref="274677611"/>
+		<nd ref="247798214"/>
+		<nd ref="1251496358"/>
+		<nd ref="1251496306"/>
+		<nd ref="247798215"/>
+		<nd ref="3019038996"/>
+		<nd ref="1251496262"/>
+		<nd ref="274681228"/>
+		<nd ref="247798216"/>
+		<nd ref="3019039000"/>
+		<nd ref="1251496236"/>
+		<nd ref="1251496264"/>
+		<nd ref="247798211"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="22986689" version="1">
+		<nd ref="247798212"/>
+		<nd ref="247798582"/>
+		<nd ref="247798583"/>
+		<nd ref="247798312"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="22986690" version="1">
+		<nd ref="247798586"/>
+		<nd ref="247798587"/>
+		<nd ref="247798211"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="48526564" version="1">
+		<nd ref="247798313"/>
+		<nd ref="3019038937"/>
+		<nd ref="3019038941"/>
+		<nd ref="3019038936"/>
+		<nd ref="3019038963"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="265038907" version="1">
+		<nd ref="2706908842"/>
+		<nd ref="2706908844"/>
+		<nd ref="3019038999"/>
+		<nd ref="2706908845"/>
+		<nd ref="2706908843"/>
+		<nd ref="3019038997"/>
+		<nd ref="2706908842"/>
+		<tag k="height" v="5.0"/>
+		<tag k="building" v="yes"/>
+		<tag k="nycdoitt:bin" v="1000000"/>
+	</way>
+	<way id="286239881" version="1">
+		<nd ref="2898892341"/>
+		<nd ref="2898892341"/>
+		<tag k="height" v="95"/>
+		<tag k="roof:shape" v="flat"/>
+		<tag k="building:part" v="yes"/>
+		<tag k="roof:material" v="concrete"/>
+		<tag k="building:colour" v="#717773"/>
+	</way>
+	<way id="297995645" version="1">
+		<nd ref="3019038958"/>
+		<nd ref="4332760739"/>
+		<nd ref="3019021231"/>
+		<nd ref="3019021230"/>
+		<nd ref="4332760738"/>
+		<nd ref="247798546"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995648" version="1">
+		<nd ref="3019038959"/>
+		<nd ref="247798614"/>
+		<nd ref="4332760733"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995650" version="1">
+		<nd ref="3019038962"/>
+		<nd ref="3019038935"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995655" version="1">
+		<nd ref="3019038960"/>
+		<nd ref="3019038939"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995662" version="1">
+		<nd ref="247798313"/>
+		<nd ref="247798314"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995664" version="1">
+		<nd ref="3019038957"/>
+		<nd ref="3019038954"/>
+		<nd ref="3019038953"/>
+		<nd ref="247798310"/>
+		<nd ref="4332760689"/>
+		<nd ref="4276517110"/>
+		<nd ref="42436575"/>
+		<tag k="foot" v="yes"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995667" version="1">
+		<nd ref="3019038979"/>
+		<nd ref="4332760547"/>
+		<nd ref="274681098"/>
+		<nd ref="4332760548"/>
+		<nd ref="3019038996"/>
+		<tag k="foot" v="yes"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995669" version="1">
+		<nd ref="3019038979"/>
+		<nd ref="3019038978"/>
+		<nd ref="247798306"/>
+		<nd ref="3019038964"/>
+		<nd ref="247798307"/>
+		<nd ref="247798308"/>
+		<nd ref="3019038998"/>
+		<nd ref="3019038955"/>
+		<nd ref="247798309"/>
+		<nd ref="247798310"/>
+		<nd ref="247798311"/>
+		<nd ref="3019038971"/>
+		<nd ref="247798312"/>
+		<nd ref="247798313"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995670" version="1">
+		<nd ref="3019038979"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995671" version="1">
+		<nd ref="247798308"/>
+		<nd ref="3019038972"/>
+		<nd ref="274677613"/>
+		<nd ref="4276517101"/>
+		<tag k="foot" v="yes"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995672" version="1">
+		<nd ref="4276517118"/>
+		<nd ref="3009534444"/>
+		<nd ref="4276517125"/>
+		<nd ref="3019038974"/>
+		<nd ref="3019038978"/>
+		<nd ref="3019038979"/>
+		<tag k="area" v="yes"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="297995674" version="1">
+		<nd ref="3019038997"/>
+		<nd ref="3019034000"/>
+		<nd ref="3019033999"/>
+		<nd ref="3019038998"/>
+		<nd ref="247798308"/>
+		<nd ref="247798307"/>
+		<nd ref="3019038964"/>
+		<nd ref="247798306"/>
+		<nd ref="3019038978"/>
+		<nd ref="3019038979"/>
+		<nd ref="4332760547"/>
+		<nd ref="274681098"/>
+		<nd ref="4332760548"/>
+		<nd ref="3019038996"/>
+		<nd ref="247798215"/>
+		<nd ref="1251496306"/>
+		<nd ref="1251496358"/>
+		<nd ref="247798214"/>
+		<nd ref="274677611"/>
+		<nd ref="1251496289"/>
+		<nd ref="247798213"/>
+		<nd ref="4332760581"/>
+		<nd ref="3019034001"/>
+		<nd ref="3019034002"/>
+		<nd ref="3019038999"/>
+		<nd ref="2706908844"/>
+		<nd ref="2706908842"/>
+		<nd ref="3019038997"/>
+		<tag k="area" v="yes"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="297995675" version="1">
+		<nd ref="3019039000"/>
+		<nd ref="3019039001"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297995676" version="1">
+		<nd ref="3019039000"/>
+		<nd ref="247798216"/>
+		<nd ref="274681228"/>
+		<nd ref="1251496262"/>
+		<nd ref="3019038996"/>
+		<nd ref="4332760548"/>
+		<nd ref="274681098"/>
+		<nd ref="4332760547"/>
+		<nd ref="3019038979"/>
+		<nd ref="3019039001"/>
+		<nd ref="3019039000"/>
+		<tag k="area" v="yes"/>
+		<tag k="highway" v="pedestrian"/>
+	</way>
+	<way id="297996282" version="1">
+		<nd ref="3019038998"/>
+		<nd ref="3019033999"/>
+		<nd ref="3019034000"/>
+		<nd ref="3019038997"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="297996283" version="1">
+		<nd ref="3019038999"/>
+		<nd ref="3019034002"/>
+		<nd ref="3019034001"/>
+		<nd ref="4332760581"/>
+		<nd ref="247798213"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="428567977" version="1">
+		<nd ref="4276517125"/>
+		<nd ref="4276517101"/>
+		<nd ref="4276517110"/>
+		<nd ref="4332760695"/>
+		<tag k="name" v="Madison Avenue"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="428567978" version="1">
+		<nd ref="4276517118"/>
+		<nd ref="4276517125"/>
+		<tag k="name" v="Madison Avenue"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="428568015" version="1">
+		<nd ref="4276517125"/>
+		<tag k="name" v="East 23rd Street"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="footway" v="crossing"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="428569357" version="1">
+		<nd ref="4763900912"/>
+		<nd ref="4276517125"/>
+		<tag k="name" v="East 23rd Street"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="428569358" version="1">
+		<nd ref="4763900913"/>
+		<nd ref="4763900911"/>
+		<nd ref="4763900909"/>
+		<tag k="name" v="East 23rd Street"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="footway" v="sidewalk"/>
+		<tag k="highway" v="footway"/>
+	</way>
+	<way id="435357277" version="1">
+		<nd ref="4332760497"/>
+		<nd ref="4332760498"/>
+		<nd ref="4332760499"/>
+		<nd ref="4332760500"/>
+		<nd ref="4332760501"/>
+		<nd ref="4332760502"/>
+		<nd ref="4332760503"/>
+		<nd ref="4332760504"/>
+		<nd ref="4332760505"/>
+		<nd ref="4332760506"/>
+		<nd ref="4332760507"/>
+		<nd ref="4332760508"/>
+		<nd ref="4332760509"/>
+		<nd ref="4332760510"/>
+		<nd ref="4332760511"/>
+		<nd ref="4332760512"/>
+		<nd ref="4332760513"/>
+		<nd ref="4332760514"/>
+		<nd ref="4332760515"/>
+		<nd ref="4332760516"/>
+		<nd ref="4332760517"/>
+		<nd ref="4332760518"/>
+		<nd ref="4332760519"/>
+		<nd ref="4332760520"/>
+		<nd ref="4332760521"/>
+		<nd ref="4332760522"/>
+		<nd ref="4332760523"/>
+		<nd ref="4332760524"/>
+		<nd ref="4332760525"/>
+		<nd ref="4332760526"/>
+		<nd ref="4332760527"/>
+		<nd ref="4332760528"/>
+		<nd ref="4332760529"/>
+		<nd ref="4332760530"/>
+		<nd ref="4332760531"/>
+		<nd ref="4332760532"/>
+		<nd ref="4332760533"/>
+		<nd ref="4332760534"/>
+		<nd ref="4332760535"/>
+		<nd ref="4332760536"/>
+		<nd ref="4332760546"/>
+		<nd ref="4332760547"/>
+		<nd ref="274681098"/>
+		<nd ref="4332760548"/>
+		<nd ref="4332760549"/>
+		<nd ref="4332760550"/>
+		<nd ref="4332760551"/>
+		<nd ref="4332760552"/>
+		<nd ref="4332760553"/>
+		<nd ref="4332760563"/>
+		<nd ref="4332760564"/>
+		<nd ref="4332760565"/>
+		<nd ref="4332760566"/>
+		<nd ref="4332760567"/>
+		<nd ref="4332760568"/>
+		<nd ref="4332760569"/>
+		<nd ref="4332760570"/>
+		<nd ref="4332760571"/>
+		<nd ref="4332760572"/>
+		<nd ref="4332760573"/>
+		<nd ref="4332760574"/>
+		<nd ref="4332760575"/>
+		<nd ref="4332760576"/>
+		<nd ref="4332760577"/>
+		<nd ref="4332760578"/>
+		<nd ref="4332760579"/>
+		<nd ref="4332760580"/>
+		<nd ref="4332760581"/>
+		<nd ref="3019034001"/>
+		<nd ref="3019034002"/>
+		<nd ref="3019038999"/>
+		<nd ref="2706908845"/>
+		<nd ref="4332760582"/>
+		<nd ref="4332760583"/>
+		<nd ref="4332760584"/>
+		<nd ref="4332760585"/>
+		<nd ref="4332760586"/>
+		<nd ref="4332760587"/>
+		<nd ref="4332760588"/>
+		<nd ref="4332760689"/>
+		<nd ref="4332760690"/>
+		<nd ref="4332760691"/>
+		<nd ref="4332760692"/>
+		<nd ref="4332760693"/>
+		<nd ref="4332760694"/>
+		<nd ref="4332760695"/>
+		<nd ref="4332760729"/>
+		<nd ref="4332760730"/>
+		<nd ref="4332760731"/>
+		<nd ref="4332760732"/>
+		<nd ref="4332760733"/>
+		<nd ref="4332760734"/>
+		<nd ref="4332760735"/>
+		<nd ref="4332760736"/>
+		<nd ref="4332760737"/>
+		<nd ref="4332760738"/>
+		<nd ref="3019021230"/>
+		<nd ref="3019021231"/>
+		<nd ref="4332760739"/>
+		<nd ref="1251496232"/>
+		<nd ref="247798193"/>
+		<nd ref="3019038959"/>
+		<nd ref="1251496362"/>
+		<nd ref="1251496260"/>
+		<nd ref="3019038960"/>
+		<nd ref="4332760740"/>
+		<nd ref="4332760741"/>
+		<nd ref="4332760742"/>
+		<nd ref="4332760751"/>
+		<nd ref="4332760752"/>
+		<nd ref="4332760497"/>
+		<tag k="natural" v="wood"/>
+	</way>
+	<way id="435357278" version="1">
+		<nd ref="4332760759"/>
+		<nd ref="4332760760"/>
+		<nd ref="4332760761"/>
+		<nd ref="4332760762"/>
+		<nd ref="4332760763"/>
+		<nd ref="4332760764"/>
+		<nd ref="4332760765"/>
+		<nd ref="4332760766"/>
+		<nd ref="4332760767"/>
+		<nd ref="4332760768"/>
+		<nd ref="4332760769"/>
+		<nd ref="4332760770"/>
+		<nd ref="4332760771"/>
+		<tag k="natural" v="wood"/>
+	</way>
+	<way id="526571477" version="1">
+		<nd ref="4763900915"/>
+		<nd ref="4763900914"/>
+		<nd ref="4763900910"/>
+		<nd ref="4763900908"/>
+		<nd ref="4763900906"/>
+		<tag k="hgv" v="local"/>
+		<tag k="name" v="East 23rd Street"/>
+		<tag k="lanes" v="4"/>
+		<tag k="name_1" v="East 23 Street"/>
+		<tag k="oneway" v="no"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="maxspeed" v="25 mph"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="New York, NY"/>
+		<tag k="tiger:zip_left" v="10010"/>
+		<tag k="tiger:name_base" v="23rd:East 23rd"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="10010"/>
+		<tag k="tiger:name_base_1" v="23"/>
+		<tag k="tiger:name_type_1" v="St"/>
+		<tag k="tiger:name_direction_prefix" v="E"/>
+		<tag k="tiger:name_direction_prefix_1" v="E"/>
+	</way>
+	<relation id="2624107" version="1">
+		<member type="way" ref="526571477" role=""/>
+		<member type="node" ref="4763900915" role="stop"/>
+		<member type="node" ref="4763900912" role="platform"/>
+		<member type="node" ref="4763900911" role="platform"/>
+		<member type="node" ref="4763900910" role="stop"/>
+		<tag k="to" v="Chelsea Piers"/>
+		<tag k="ref" v="M23"/>
+		<tag k="from" v="Peter Cooper Village"/>
+		<tag k="name" v="NYCB - M23"/>
+		<tag k="type" v="route"/>
+		<tag k="route" v="bus"/>
+		<tag k="network" v="NYC Transit"/>
+		<tag k="operator" v="MTA"/>
+		<tag k="description" v="Select Bus Service"/>
+		<tag k="public_transport:version" v="2"/>
+	</relation>
+	<relation id="2636378" version="1">
+		<member type="relation" ref="2624107" role="route"/>
+		<tag k="name" v="New York City Buses (Manhattan)"/>
+		<tag k="type" v="route_master"/>
+		<tag k="operator" v="Metropolitan Transportation Authority"/>
+		<tag k="route_master" v="bus"/>
+	</relation>
+	<relation id="2954773" version="1">
+		<member type="relation" ref="2636378" role="routemaster"/>
+		<tag k="name" v="Metropolitan Transport Authority"/>
+		<tag k="type" v="operator"/>
+		<tag k="website" v="http://www.mta.info/"/>
+	</relation>
+	<relation id="2982687" version="1">
+		<member type="relation" ref="2636378" role="routemaster"/>
+		<tag k="name" v="East Coast Public Transportation"/>
+		<tag k="type" v="routeindex"/>
+	</relation>
+	<relation id="7120473" version="1">
+		<member type="node" ref="4763900906" role="stop"/>
+		<tag k="name" v="East 23rd Street/Madison Avenue"/>
+		<tag k="type" v="public_transport"/>
+		<tag k="public_transport" v="stop_area"/>
+	</relation>
+	<relation id="7120474" version="1">
+		<member type="node" ref="4763900912" role="platform"/>
+		<member type="node" ref="4763900915" role="stop"/>
+		<member type="node" ref="4763900914" role="stop"/>
+		<member type="node" ref="4763900913" role="platform"/>
+		<member type="node" ref="4763900911" role="platform"/>
+		<member type="node" ref="4763900910" role="stop"/>
+		<member type="node" ref="4763900909" role="platform"/>
+		<member type="node" ref="4763900908" role="stop"/>
+		<tag k="name" v="East 23rd Street/Broadway"/>
+		<tag k="type" v="public_transport"/>
+		<tag k="public_transport" v="stop_area"/>
+	</relation>
+	<relation id="7594613" version="1">
+		<member type="way" ref="526571477" role="from"/>
+		<tag k="type" v="restriction"/>
+		<tag k="restriction" v="no_left_turn"/>
+	</relation>
+</osm>
